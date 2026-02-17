@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#hero {
+    background-color: #f8f9fa;
+}
+
+#projects .card{
+    margin-bottom: 20px;
+}
+
+.custom-btn {
+    background-color: #6f42c1;
+    color: white;
+    border: none;
+}
+
+.custom-btn:hover {
+    background-color: #59339d;
+    color: white;
+}
